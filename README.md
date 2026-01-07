@@ -2,6 +2,9 @@
 
 Introduction to NodeJS: originally from [The Odin Project Curriculum – Node Path](https://www.theodinproject.com/lessons/nodejs-basic-informational-site).
 
+- Original exercise: [GitHub Repository](https://github.com/FreeFallRush/Basic-Informational-Site)
+- Live demo: [View Project](https://freefallrush.github.io/Basic-Informational-Site/)
+
 Assignment
 
     Make a project directory and create the following files inside that directory:
